@@ -1,0 +1,60 @@
+.header {
+    background-image: url(../img/Sunbat.jpg);
+        text-align: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+}
+.header h1 {
+    font-family: courier new;
+            color: ghostwhite;
+            margin: 200px 0 130px 0;
+            font-size: 48px;
+}
+.top_menu {
+    background-color: slategray;
+    height: 120px;
+    padding: 35px 0 0 0;
+
+}
+.top_menu a {
+    color: ghostwhite;
+        text-decoration: none;
+        font-family: courier new;
+        font-size: 32px;
+}
+.top_menu a : hover {
+    color: darkred;
+}
+.flesh {
+    background-color: lightcyan;
+    height: 880px;
+}
+.why {
+    text-align: center;
+}
+.blog {
+    text-align: right;
+}
+.main {
+    text-align: left;
+}
+.preview_container {
+    height: 630px;
+    padding: 160px 0 140px 0;
+}
+.bottom_bg {
+    background-image: url(../img/Sacral%20hood.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    background-position: 0 -1500px;
+}
+.preview {
+    background-color: hotpink;
+            height: 330px;
+}
+.footer {
+    background-color: black;
+    height: 150px;
+}
